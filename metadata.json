@@ -1,0 +1,7 @@
+{
+  "name": "LEAK",
+  "description": "An AI-powered personal life-management operating system that detects and fixes what you are accidentally losing in money, time, deadlines, and communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
